@@ -1,0 +1,1 @@
+# Thread_local-for-Windows-XP
