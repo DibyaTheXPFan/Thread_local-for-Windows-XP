@@ -105,7 +105,7 @@ LPVOID WINAPI TlsGetValue( DWORD index )
     return result;
 }
 
-
+// might have bugs 
 
 BOOL WINAPI TlsSetValue( DWORD index, LPVOID value )
 {
